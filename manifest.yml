@@ -7,4 +7,4 @@ applications:
   host: starter007
   disk_quota: 1024M
   services:
-  - Cloudant NoSQL DB-yp
+  - Cloudant NoSQL DB-jx
